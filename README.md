@@ -1,5 +1,7 @@
 # Opinionated Python
-Inspired by awesome-python this list tries to reduce the number of possible options to single tools for a given purpose.
+Inspired by awesome-python this list tries to reduce the number of possible options to single tools for a given purpose. This is supposed to make entry into python easier for me as well as everyone else.
+
+The repo will (hopefully) also contain examples or serve as a blueprint project.
 
 ## Important PEPs
 * [PEP 518](https://www.python.org/dev/peps/pep-0518) defines pyproject.toml as a configuration file to store build system requirements for Python projects.
