@@ -1,5 +1,5 @@
 # Opinionated Python
-Inspired by awesome-python this list tries to reduce the number of possible options to single tools for a given purpose. This is supposed to make entry into python easier for me as well as everyone else.
+Inspired by awesome-python this list tries to reduce the number of possible options to single tools for a given purpose. This is supposed to make entry into Python easier for me as well as everyone else.
 
 The repo will (hopefully) also contain examples or serve as a blueprint project.
 
